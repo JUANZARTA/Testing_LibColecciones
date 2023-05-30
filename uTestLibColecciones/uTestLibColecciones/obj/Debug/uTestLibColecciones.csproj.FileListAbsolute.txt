@@ -1,0 +1,7 @@
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\bin\Debug\uTestLibColecciones.dll
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\bin\Debug\uTestLibColecciones.pdb
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\bin\Debug\libColecciones.dll
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\bin\Debug\libColecciones.pdb
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\obj\Debug\uTestLibColecciones.csprojResolveAssemblyReference.cache
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\obj\Debug\uTestLibColecciones.dll
+C:\Users\Kevith\Documents\Visual Studio 2015\Projects\uTestLibColecciones\uTestLibColecciones\obj\Debug\uTestLibColecciones.pdb
